@@ -1,1 +1,5 @@
 # Design-Patterns
+
+```
+function a()
+```
