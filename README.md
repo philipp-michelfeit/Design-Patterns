@@ -2,8 +2,8 @@
 
 ## Design Principles
 
-### Abstraction
-### Program to an Interface
+#### Abstraction
+#### Program to an Interface
 
 ## Design Patterns
 #### Strategy
