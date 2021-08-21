@@ -9,13 +9,13 @@
 
 #### Strategy
 ```
-interface Algorithm {
+interface HashAlgorithm {
   public HashCode hashCode();
 }
 ```
 
 ```
-class SHA2 implements Algorithm {
+class SHA2 implements HashAlgorithm {
   @Override
   public HashCode hashCode(){
     return SHA2.hash();
