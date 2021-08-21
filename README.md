@@ -25,5 +25,7 @@ class SHA2 implements HashAlgorithm {
 ```
 #### Observer
 ```
-function b()
+interface Observer {
+  public void observe();
+}
 ```
