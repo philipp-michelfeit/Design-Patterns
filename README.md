@@ -21,14 +21,14 @@
 
 ```
 interface HashAlgorithm {
-  public HashCode hashCode();
+  public Hash hash();
 }
 ```
 
 ```
 class SHA2 implements HashAlgorithm {
   @Override
-  public HashCode hashCode(){
+  public Hash hash(){
     return AlgorithmFactory.get("SHA2").hash();
   }
   
