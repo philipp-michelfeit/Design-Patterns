@@ -1,11 +1,19 @@
 # Design-Patterns
 
-## Design Principles
+## OO Basics
 
 #### Abstraction
-#### Programming to an Interface
+#### Encapsulation
+#### Polymorphism
+#### Inheritance
 
-## Design Patterns
+## OO Principles
+
+#### Encapsulate what varies
+#### Favor composition over inheritance
+#### Program to interfaces, not implementations
+
+## OO Patterns
 
 #### Strategy
 ```
