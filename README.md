@@ -11,11 +11,13 @@
 
 #### Encapsulate what varies
 #### Favor composition over inheritance
-#### Program to interfaces, not implementations
+#### Program to an interface, not an implementation
 
 ## OO Patterns
 
 #### Strategy
+##### Defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from Clients that use it.
+
 ```
 interface HashAlgorithm {
   public HashCode hashCode();
