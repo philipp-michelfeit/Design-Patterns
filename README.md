@@ -3,7 +3,7 @@
 ## Design Principles
 
 #### Abstraction
-#### Program to an Interface
+#### Programming to an Interface
 
 ## Design Patterns
 
