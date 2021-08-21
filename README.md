@@ -9,7 +9,9 @@
 
 #### Strategy
 ```
-function a()
+interface Algorithm {
+  public HashCode hashCode();
+}
 ```
 #### Observer
 ```
