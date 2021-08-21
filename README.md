@@ -10,3 +10,7 @@
 ```
 function a()
 ```
+#### Observer
+```
+function b()
+```
