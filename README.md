@@ -18,11 +18,7 @@ interface HashAlgorithm {
 class SHA2 implements HashAlgorithm {
   @Override
   public HashCode hashCode(){
-    return SHA2.hash();
-  }
-  
-  private HashCode hash(){
-    return "Assd7576474657eddjddedrsswertzui665";
+    return AlgorithmFactory.get("SHA2").hash();
   }
   
 }
