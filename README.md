@@ -2,10 +2,10 @@
 
 ## OO Basics
 
-#### Abstraction
-#### Encapsulation
-#### Polymorphism
-#### Inheritance
+#### [x] Abstraction
+#### [x] Encapsulation
+#### [x] Polymorphism
+#### [x] Inheritance
 
 ## OO Principles
 
