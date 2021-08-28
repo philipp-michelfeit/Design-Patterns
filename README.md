@@ -9,9 +9,9 @@
 
 ## OO Principles
 
-#### Encapsulate what varies
-#### Favor composition over inheritance
-#### Program to an interface, not an implementation
+- [x] Encapsulate what varies
+- [x] Favor composition over inheritance
+- [x] Program to an interface, not an implementation
 
 ## OO Patterns
 
