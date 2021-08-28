@@ -47,6 +47,6 @@ interface Subject {
 ```
 ```
 interface Observer {
-  public void update( double value );
+  public void update();
 }
 ```
