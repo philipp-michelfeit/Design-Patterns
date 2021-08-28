@@ -38,7 +38,14 @@ class SHA2 implements HashAlgorithm {
 ##### Defines a one-to-many dependency between objects so that when one object changes state, all of its dependents are notified and updated automatically.   
 
 ```
+interface Subject {
+  public void registerObserver();
+  public void removeObserver();
+  public void notifyObservers();
+}
+```
+```
 interface Observer {
-  public void observe();
+  public void update();
 }
 ```
