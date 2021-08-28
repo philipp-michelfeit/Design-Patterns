@@ -50,3 +50,6 @@ interface Observer {
   public void update();
 }
 ```
+
+#### Decorator
+##### ...
