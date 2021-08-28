@@ -16,8 +16,7 @@
 ## OO Patterns
 
 #### Strategy
-##### Defines a family of algorithms, encapsulates each one, and makes them interchangeable. 
-##### Strategy lets the algorithm vary independently from Clients that use it.
+##### Defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from Clients that use it.
 
 ```
 interface HashAlgorithm {
