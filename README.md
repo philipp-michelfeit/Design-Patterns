@@ -12,7 +12,8 @@
 - [x] Encapsulate what varies
 - [x] Favor composition over inheritance
 - [x] Program to an interface, not an implementation
-- [x] Strive for loosely coupled designs between objects that interact 
+- [x] Strive for loosely coupled designs between objects that interact
+- [x] Classes should be open for extension, but closed for modification 
 
 ## OO Patterns
 
