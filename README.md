@@ -31,7 +31,7 @@ interface HashAlgorithm {
 class SHA2 implements HashAlgorithm {
   @Override
   public Hash hash(){
-    return AlgorithmFactory.get(this.class.getName()).hash();
+    return Algorithms.get(this.class.getName()).hash();
   }
   
 }
