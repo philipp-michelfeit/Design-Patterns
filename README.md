@@ -56,7 +56,7 @@ interface Observer {
 ##### Attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
 
 ```
-public class Decorator {
+public class Decorator implements Component {
 
   private Component wrappedObj;
   
