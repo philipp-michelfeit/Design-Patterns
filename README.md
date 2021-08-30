@@ -58,7 +58,7 @@ interface Observer {
 ```
 public class Decorator {
 
-  private Component decoratableComponent;
+  private Component wrappedObj;
   
   public void operation();
   
