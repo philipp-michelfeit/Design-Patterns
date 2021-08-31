@@ -64,3 +64,6 @@ public class Decorator implements Component {
   
 }
 ```
+
+#### Factory
+##### ...
