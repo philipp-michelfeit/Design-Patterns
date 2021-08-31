@@ -65,5 +65,9 @@ public class Decorator implements Component {
 }
 ```
 
-#### Factory
+#### Factory (method)
 ##### ...
+
+```
+abstract Product factoryMethod(String type);
+```
