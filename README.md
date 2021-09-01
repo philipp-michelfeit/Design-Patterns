@@ -88,3 +88,9 @@ interface AbstractFactory {
 
 ##### Singleton
 ###### ...
+
+```
+class Singleton {
+  
+}
+```
