@@ -107,3 +107,6 @@ public enum Singleton {
   // more useful fields here
 }
 ```
+
+##### Command
+###### ...
