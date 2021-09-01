@@ -78,3 +78,10 @@ public class Decorator implements Component {
 
 ##### Abstract Factory
 ###### Provides an Interface for creating families of related or dependent objects without specifying their concrete classes.
+
+```
+interface AbstractFactory {
+  public void createProductA();
+  public void createProductB();
+}
+```
