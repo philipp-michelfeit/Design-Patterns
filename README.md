@@ -81,7 +81,7 @@ public class Decorator implements Component {
 
 ```
 interface AbstractFactory {
-  public void createProductA();
-  public void createProductB();
+  public Product createProductA();
+  public Product createProductB();
 }
 ```
