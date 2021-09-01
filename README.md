@@ -72,11 +72,8 @@ public class Decorator implements Component {
 ###### Defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
 ```
-abstract class Factory {
-
   abstract Product factoryMethod(String type);
 
-}
 ```
 
 ##### Abstract Factory
