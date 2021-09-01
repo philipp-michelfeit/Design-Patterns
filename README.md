@@ -85,3 +85,6 @@ interface AbstractFactory {
   public Product createProductB();
 }
 ```
+
+##### Singleton
+###### ...
