@@ -91,13 +91,12 @@ interface AbstractFactory {
 
 ```
 public class Singleton {
-  private static Singleton uniqueInstance;
+  private static Singleton uniqueInstance = new Singleton();
 
   private Singleton(){}
   
   public static Singleton getInstance(){
-    if(uniqueInstance == null){
-      uniqueInstance = new Singleton();
+    return uniqueInstance;
     }
   }
 }
