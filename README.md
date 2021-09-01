@@ -100,3 +100,10 @@ public class Singleton {
   }
 }
 ```
+
+```
+public enum Singleton {
+  UNIQUE_INSTANCE;
+  // more useful fields here
+}
+```
