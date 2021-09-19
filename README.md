@@ -15,6 +15,7 @@
 - [x] Strive for loosely coupled designs between objects that interact
 - [x] Classes should be open for extension, but closed for modification ( Open Closed )
 - [x] Depend upon abstractions. Do not depend upon concrete classes. ( Dependency Inversion )
+- [x] Talk only to you immediate friends. ( Principle of least knowledge )
 
 ## OO Patterns
 
