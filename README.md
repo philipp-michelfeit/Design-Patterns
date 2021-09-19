@@ -133,9 +133,9 @@ class Adapter {
 
 ```
 class HomeTheaterFacade {
-  watchMovie();
-  endMovie();
-  listenToRadio();
-  endRadio();
+  public void watchMovie();
+  public void endMovie();
+  public void listenToRadio();
+  public void endRadio();
 }
 ```
