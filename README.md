@@ -139,3 +139,14 @@ class HomeTheaterFacade {
   public void endRadio();
 }
 ```
+
+##### Template Method
+###### Defines the skeleton of an algorithm in a method, deferring some steps to subclasses. Template Method lets subclassesredefine certain steps of an algorithm without changing the algorithm's structure.
+
+```
+class TemplateClass {
+  templateMethod();
+  abstract primitiveOperation1();
+  abstract primitiveOperation2();
+}
+```
