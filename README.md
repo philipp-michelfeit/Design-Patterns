@@ -16,6 +16,7 @@
 - [x] Classes should be open for extension, but closed for modification ( Open Closed )
 - [x] Depend upon abstractions. Do not depend upon concrete classes. ( Dependency Inversion )
 - [x] Talk only to your immediate friends. ( Principle of least knowledge )
+- [x] Don't callus, we call you. ( Hollywood Principle )
 
 ## OO Patterns
 
