@@ -151,3 +151,14 @@ class TemplateClass {
   abstract primitiveOperation2();
 }
 ```
+
+##### Iterator
+###### Provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
+
+```
+interface Iterator {
+  hasNext();
+  next();
+  remove();
+}
+```
