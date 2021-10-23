@@ -17,6 +17,7 @@
 - [x] Depend upon abstractions. Do not depend upon concrete classes. ( Dependency Inversion )
 - [x] Talk only to your immediate friends. ( Principle of least knowledge )
 - [x] Don't call us, we call you. ( Hollywood Principle )
+- [x] A class should have only one reason to change. ( Single Responsibility Principle )
 
 ## OO Patterns
 
